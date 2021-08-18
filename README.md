@@ -1,3 +1,30 @@
+# Keith's Heading
+
+Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to: 
+- deploy to Cloudflare Pages (Deploy CP). 
+- configure site basics (1st Config).
+Then later:
+- add PWA capabilities, including push notifications (OneSignal).
+Amend this todo list as project progresses. Adding detailed notes below with latest changes first
+
+## yymm02a Branch3
+
+## yymmddb Branch2
+
+## yymmdda 1st Config
+Usually, I create a 1st Config branch to get a working site with config changes as per original README instructions and note files changed with any additional notes. Most of this detail is deleted from final README, but it serves to keep track of installation progress.
+- author.json
+- menu.json
+- site.js
+
+## 210818a Deploy CP
+From now on, I'll adopt the simple license that comes with this repo. 
+
+## Original 5t3ph README below...
+
+
+***
+
 # 11ty Netlify Jumpstart
 
 > Created by Stephanie Eckles ([@5t3ph](https://twitter.com/5t3ph))
